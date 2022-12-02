@@ -1,6 +1,6 @@
 # LeetCodeProblems
-Solutions for LeetCode problems that I have done.
-#
+Solutions for all the LeetCode problems that I have done so far. For problem descriptions, see the comments in corresponding Main.java classes.
+
 ## Table of Content
 ---
 | Num | Title | Topics | Difficulty |
