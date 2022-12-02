@@ -1,4 +1,4 @@
-package lc3_longest_substring_without_repeating_characters;
+package lc3;
 
 public class BruteForce {
   public int lengthOfLongestSubstring(String s) {
