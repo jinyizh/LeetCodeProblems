@@ -1,5 +1,5 @@
 # LeetCodeProblems
-Solutions for all the LeetCode problems that I have done so far. For problem descriptions, see the comments in corresponding Main.java classes.
+Solutions for all the LeetCode problems that I have done so far.
 
 ## Table of Content
 ---
