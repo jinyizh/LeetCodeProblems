@@ -52,4 +52,6 @@ Solutions for all the LeetCode problems that I have done so far.
 739 | Daily Temperature | Array, Stack, Monotonic Stack | M
 876 | Middle of the Linked List | Linked List, Two Pointers | E
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
+1165 | Single-Row Keyboard | Hash Table, String | E
 1480 | Running Sum of 1d Array | Array, Prefix Sum | E
+---
