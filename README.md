@@ -32,6 +32,7 @@ Solutions for all the LeetCode problems that I have done so far.
 118 | Pascal's Triangle | Array, Dynamic Programming | E
 121 | Best Time to Buy and Sell Stock | Array, Dynamic Programming | E
 136 | Single Number | Array, Bit Manipulation | E
+155 | Min Stack | Stack, Design | M
 168 | Excel Sheet Column Title | Math, String | E
 205 | Isomorphic Strings | Hash Table, String | E
 231 | Power of Two | Math, Bit Manipulation, Recursion | E
