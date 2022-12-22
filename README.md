@@ -1,4 +1,4 @@
-# LeetCodeProblems
+# LeetCode Problems
 Solutions for all the LeetCode problems that I have done so far.
 
 ## Table of Content
@@ -22,6 +22,7 @@ Solutions for all the LeetCode problems that I have done so far.
 29 | Divide Two Integers | Math, Bit Manipulation | M
 31 | Next Permutation | Array, Two Pointers | M
 35 | Search Insert Position | Array, Binary Search | E
+36 | Valid Sudoku | Array, Hash Table, Matrix | M
 53 | Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | M
 55 | Jump Game | Array, Dynamic Programming, Greedy | M
 58 | Length of Last Word | String | E
