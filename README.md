@@ -5,14 +5,15 @@ Solutions for all the LeetCode problems that I have done so far.
 ---
 | Num | Title | Topics | Difficulty |
 | --- | --- | --- | --- |
-1 | Two Sum | Array, HashTable | E
+1 | Two Sum | Array, Hash Table | E
+[2](./Problems/lc2.md) | Add Two Numbers | Linked List, Math, Recursion | M
 5 | Longest Palindromic Substring | String, Dynamic Programming | M
 7 | Reverse Integer | Math | M
 9 | Palindrome Number | Math | E
 11 | Container With Most Water | Array, Two Pointers, Greedy | M
 12 | Integer to Roman | Hash Table, Math, String | M
 13 | Roman to Integer | Hash Table, Math, String | E
-14 | Longest Common Prefix | String | E
+[14](./Problems/lc14.md) | Longest Common Prefix | String | E
 20 | Valid Parentheses | String, Stack | E
 21 | Merge Two Sorted Lists | Linked List, Recursion | E
 22 | Generate Parentheses | String, Dynamic Programming, Backtracking | M
@@ -22,7 +23,7 @@ Solutions for all the LeetCode problems that I have done so far.
 29 | Divide Two Integers | Math, Bit Manipulation | M
 31 | Next Permutation | Array, Two Pointers | M
 35 | Search Insert Position | Array, Binary Search | E
-36 | Valid Sudoku | Array, Hash Table, Matrix | M
+[36](./Problems/lc36.md) | Valid Sudoku | Array, Hash Table, Matrix | M
 53 | Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | M
 55 | Jump Game | Array, Dynamic Programming, Greedy | M
 58 | Length of Last Word | String | E
@@ -33,7 +34,7 @@ Solutions for all the LeetCode problems that I have done so far.
 118 | Pascal's Triangle | Array, Dynamic Programming | E
 121 | Best Time to Buy and Sell Stock | Array, Dynamic Programming | E
 136 | Single Number | Array, Bit Manipulation | E
-155 | Min Stack | Stack, Design | M
+[155](./Problems/lc155.md) | Min Stack | Stack, Design | M
 168 | Excel Sheet Column Title | Math, String | E
 205 | Isomorphic Strings | Hash Table, String | E
 231 | Power of Two | Math, Bit Manipulation, Recursion | E
@@ -51,9 +52,9 @@ Solutions for all the LeetCode problems that I have done so far.
 674 | Longest Continuous Increasing Subsequence | Array | E
 724 | Find Pivot Index | Array, Prefix Sum | E
 733 | Flood Fill | Array, Depth-First Search, Breadth-First Search, Matrix | E
-739 | Daily Temperature | Array, Stack, Monotonic Stack | M
+[739](./Problems/lc739.md)) | Daily Temperature | Array, Stack, Monotonic Stack | M
 876 | Middle of the Linked List | Linked List, Two Pointers | E
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
-1165 | Single-Row Keyboard | Hash Table, String | E
+[1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
 1480 | Running Sum of 1d Array | Array, Prefix Sum | E
 ---
