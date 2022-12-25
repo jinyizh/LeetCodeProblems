@@ -50,9 +50,10 @@ Solutions for all the LeetCode problems that I have done so far.
 392 | Is Subsequence | Two Pointers, String, Dynamic Programming | E
 509 | Fibonacci Number | Math, Dynamic Programming, Recursion, Memoization | E
 674 | Longest Continuous Increasing Subsequence | Array | E
+[704](./Problems/lc704.md) | Binary Search | Array, Binary Search | E
 724 | Find Pivot Index | Array, Prefix Sum | E
 733 | Flood Fill | Array, Depth-First Search, Breadth-First Search, Matrix | E
-[739](./Problems/lc739.md)) | Daily Temperature | Array, Stack, Monotonic Stack | M
+[739](./Problems/lc739.md) | Daily Temperature | Array, Stack, Monotonic Stack | M
 876 | Middle of the Linked List | Linked List, Two Pointers | E
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
