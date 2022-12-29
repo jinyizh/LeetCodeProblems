@@ -1,7 +1,9 @@
 public class Main {
   public static void main(String[] args) {
-    int[] temperatures = new int[] {73, 74, 75, 71, 69, 72, 76, 73};
+    // test case below
+    int[] nums = new int[] {2,3,1,1,4};
+    // end of test case
     Solution sl = new Solution();
-    int[] answer = sl.dailyTemperatures(temperatures);
+    boolean answer = sl.canJump(nums);
   }
 }

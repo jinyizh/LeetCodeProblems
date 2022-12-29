@@ -32,7 +32,7 @@ Solutions for all the LeetCode problems that I have done so far.
 70 | Climbing Stairs | Math, Dynamic Programming, Memoization | E
 88 | Merge Sorted Array | Array, Two Pointers, Sorting | E
 118 | Pascal's Triangle | Array, Dynamic Programming | E
-121 | Best Time to Buy and Sell Stock | Array, Dynamic Programming | E
+[121](Problems/lc121.md) | Best Time to Buy and Sell Stock | Array, Dynamic Programming | E
 136 | Single Number | Array, Bit Manipulation | E
 [155](./Problems/lc155.md) | Min Stack | Stack, Design | M
 168 | Excel Sheet Column Title | Math, String | E
@@ -48,6 +48,7 @@ Solutions for all the LeetCode problems that I have done so far.
 387 | First Unique Character in a String | Hash Table, String, Queue, Counting | E
 389 | Find the Difference | Hash Table, String, Bit Manipulation, Sorting | E
 392 | Is Subsequence | Two Pointers, String, Dynamic Programming | E
+490 | The Maze | Depth-First Search, Breadth-First Search, Graph| M
 509 | Fibonacci Number | Math, Dynamic Programming, Recursion, Memoization | E
 674 | Longest Continuous Increasing Subsequence | Array | E
 [704](./Problems/lc704.md) | Binary Search | Array, Binary Search | E
@@ -55,6 +56,7 @@ Solutions for all the LeetCode problems that I have done so far.
 733 | Flood Fill | Array, Depth-First Search, Breadth-First Search, Matrix | E
 [739](./Problems/lc739.md) | Daily Temperature | Array, Stack, Monotonic Stack | M
 876 | Middle of the Linked List | Linked List, Two Pointers | E
+[910](./Problems/lc910.md) | Smallest Range II | Array, Math, Greedy, Sorting | M
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
 1480 | Running Sum of 1d Array | Array, Prefix Sum | E
