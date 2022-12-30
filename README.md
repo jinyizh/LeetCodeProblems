@@ -44,12 +44,14 @@ Solutions for all the LeetCode problems that I have done so far.
 292 | Nim Game | Math, Brainteaser, Game Theory | E
 344 | Reverse String | Two Pointers, String | E
 345 | Reverse Vowels of a String | Two Pointers, String | E
+370 | Range Addition | Array, Prefix Sum | M
 383 | Ransom Note | Hash Table, String, Counting | E
 387 | First Unique Character in a String | Hash Table, String, Queue, Counting | E
 389 | Find the Difference | Hash Table, String, Bit Manipulation, Sorting | E
 392 | Is Subsequence | Two Pointers, String, Dynamic Programming | E
 490 | The Maze | Depth-First Search, Breadth-First Search, Graph| M
 509 | Fibonacci Number | Math, Dynamic Programming, Recursion, Memoization | E
+[560](Problems/lc560.md) | Subarray Sum Equals K | Array, Hash Table, Prefix Sum | M
 674 | Longest Continuous Increasing Subsequence | Array | E
 [704](./Problems/lc704.md) | Binary Search | Array, Binary Search | E
 724 | Find Pivot Index | Array, Prefix Sum | E
@@ -57,6 +59,7 @@ Solutions for all the LeetCode problems that I have done so far.
 [739](./Problems/lc739.md) | Daily Temperature | Array, Stack, Monotonic Stack | M
 876 | Middle of the Linked List | Linked List, Two Pointers | E
 [910](./Problems/lc910.md) | Smallest Range II | Array, Math, Greedy, Sorting | M
+[974](Problems/lc974.md) | Subarray Sums Divisible by K | Array, Hash Table, Prefix Sum | M
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
 1480 | Running Sum of 1d Array | Array, Prefix Sum | E
