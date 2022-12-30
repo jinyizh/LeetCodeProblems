@@ -13,7 +13,7 @@ class Solution {
       // Add k again чтобы take modulo twice to avoid negative remainders.
       // Only need to add k once more because negative remainder is always larger than -k.
       prefixMod = (prefixMod + num % k + k) % k;
-      // Add the count of subarrays that have the same remainder as the current
+      // Add the count of sub-arrays that have the same remainder as the current
       // one to cancel out the remainders.
       result += modGroups[prefixMod];
       modGroups[prefixMod]++;

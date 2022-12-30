@@ -37,6 +37,7 @@ Solutions for all the LeetCode problems that I have done so far.
 [155](./Problems/lc155.md) | Min Stack | Stack, Design | M
 168 | Excel Sheet Column Title | Math, String | E
 205 | Isomorphic Strings | Hash Table, String | E
+[209](Problems/lc209.md) | Minimum Size Subarray Sum | Array, Binary Search, Sliding Window, Prefix Sum | M
 231 | Power of Two | Math, Bit Manipulation, Recursion | E
 242 | Valid Anagram | Hash Table, String, Sorting | E
 283 | Move Zeroes | Array, Two Pointers | E
@@ -63,4 +64,5 @@ Solutions for all the LeetCode problems that I have done so far.
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
 1480 | Running Sum of 1d Array | Array, Prefix Sum | E
+[2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
 ---
