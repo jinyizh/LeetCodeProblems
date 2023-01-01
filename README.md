@@ -25,7 +25,7 @@ Solutions for all the LeetCode problems that I have done so far.
 35 | Search Insert Position | Array, Binary Search | E
 [36](./Problems/lc36.md) | Valid Sudoku | Array, Hash Table, Matrix | M
 53 | Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | M
-55 | Jump Game | Array, Dynamic Programming, Greedy | M
+[55](./Problems/lc55.md) | Jump Game | Array, Dynamic Programming, Greedy | M
 58 | Length of Last Word | String | E
 66 | Plus One | Array, Math | E
 67 | Add Binary | Math, String, Bit Manipulation, Simulation | E
@@ -63,6 +63,7 @@ Solutions for all the LeetCode problems that I have done so far.
 [974](Problems/lc974.md) | Subarray Sums Divisible by K | Array, Hash Table, Prefix Sum | M
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
+1470 | Shuffle the Array | Array | E
 1480 | Running Sum of 1d Array | Array, Prefix Sum | E
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
 ---
