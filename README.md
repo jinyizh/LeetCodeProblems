@@ -16,7 +16,7 @@ Solutions for all the LeetCode problems that I have done so far.
 [14](./Problems/lc14.md) | Longest Common Prefix | String | E
 20 | Valid Parentheses | String, Stack | E
 21 | Merge Two Sorted Lists | Linked List, Recursion | E
-22 | Generate Parentheses | String, Dynamic Programming, Backtracking | M
+[22](./Problems/lc22.md) | Generate Parentheses | String, Dynamic Programming, Backtracking | M
 26 | Remove Duplicates from Sorted Array | Array, Two Pointers | E
 27 | Remove Element | Array, Two Pointers | E
 28 | Find the Index of the First Occurrence in a String | Two Pointers, String, String Matching | M
