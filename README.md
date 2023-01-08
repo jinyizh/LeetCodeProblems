@@ -69,3 +69,40 @@ Solutions for all the LeetCode problems that I have done so far.
 1480 | Running Sum of 1d Array | Array, Prefix Sum | E
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
 ---
+
+## Appendix: List of data structures and algorithms
+
+### Data structures (and data types)
+- Array
+  - Slice (Python, Golang)
+- Graph
+- Hash Table
+- Heap
+- Linked List
+- Queue
+  - Priority Queue
+- Stack
+- String
+- Tree
+  - AVL Tree
+  - Binary Tree
+
+### Algorithms (and topics)
+- Binary Search
+- Bit Manipulation
+- Breadth-First Search
+- Counting
+- Depth-First Search
+- Design
+- Divide and Conquer
+- Dynamic Programming
+- Greedy
+- Math
+- Memoization
+- Monotonic Stack
+- Prefix Sum
+- Recursion
+- Simulation
+- Sliding Window
+- Sorting
+- Two Pointers
