@@ -62,6 +62,7 @@ Solutions for all the LeetCode problems that I have done so far.
 [739](./Problems/lc739.md) | Daily Temperature | Array, Stack, Monotonic Stack | M
 876 | Middle of the Linked List | Linked List, Two Pointers | E
 [910](./Problems/lc910.md) | Smallest Range II | Array, Math, Greedy, Sorting | M
+[945](Problems/lc945.md) | Minimum Increment to Make Array Unique | Array, Greedy, Sorting, Counting | M
 [974](Problems/lc974.md) | Subarray Sums Divisible by K | Array, Hash Table, Prefix Sum | M
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
