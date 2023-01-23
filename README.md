@@ -52,6 +52,7 @@ Solutions for all the LeetCode problems that I have done so far.
 387 | First Unique Character in a String | Hash Table, String, Queue, Counting | E
 389 | Find the Difference | Hash Table, String, Bit Manipulation, Sorting | E
 392 | Is Subsequence | Two Pointers, String, Dynamic Programming | E
+412 | Fizz Buzz | Math, String, Simulation | E
 490 | The Maze | Depth-First Search, Breadth-First Search, Graph| M
 509 | Fibonacci Number | Math, Dynamic Programming, Recursion, Memoization | E
 [560](Problems/lc560.md) | Subarray Sum Equals K | Array, Hash Table, Prefix Sum | M
