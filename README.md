@@ -36,6 +36,7 @@ Solutions for all the LeetCode problems that I have done so far.
 [121](Problems/lc121.md) | Best Time to Buy and Sell Stock | Array, Dynamic Programming | E
 136 | Single Number | Array, Bit Manipulation | E
 [155](./Problems/lc155.md) | Min Stack | Stack, Design | M
+146 | LRU Cache | Hash Table, Linked List, Design, Doubly-Linked List | M
 [167](./Problems/lc167.md) | Two Sum II - Input Array Is Sorted | Array, Two Pointers, Binary Search | M
 168 | Excel Sheet Column Title | Math, String | E
 205 | Isomorphic Strings | Hash Table, String | E
