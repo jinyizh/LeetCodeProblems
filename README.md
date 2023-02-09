@@ -82,6 +82,7 @@ Solutions for all the LeetCode problems that I have done so far.
 - Hash Table
 - Heap
 - Linked List
+  - Doubly-linked list
 - Queue
   - Priority Queue
 - Stack
