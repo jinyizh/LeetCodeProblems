@@ -6,4 +6,18 @@ You may assume that each input would have **exactly one solution**, and you may 
 You can return the answer in any order.
 
 ## Hash Map
-[go](../Go/lc1.go)
+```java
+public int[] twoSum(int[] nums, int target) {
+        Map<Integer,Integer> map=new HashMap<>();
+        for(int i=0; i<nums.length; i++){
+            int sub=target - nums[i];
+            if(map.containsKey(sub)){
+                return new int[]{i,map.get(sub)};
+            }
+            map.put(nums[i], i); // key is the number, value is the index
+        }
+        throw new IllegalArgumentException("No two sum solution");
+    }
+```
+
+TC is O(N). 空间换时间, compare to brute force solution, SC is O(N).
