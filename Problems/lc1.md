@@ -8,9 +8,9 @@ You can return the answer in any order.
 ## Hash Map
 ```java
 public int[] twoSum(int[] nums, int target) {
-        Map<Integer,Integer> map=new HashMap<>();
-        for(int i=0; i<nums.length; i++){
-            int sub=target - nums[i];
+        Map<Integer,Integer> map = new HashMap<>();
+        for(int i = 0; i< nums.length; i++){
+            int sub = target - nums[i];
             if(map.containsKey(sub)){
                 return new int[]{i,map.get(sub)};
             }
@@ -19,5 +19,6 @@ public int[] twoSum(int[] nums, int target) {
         throw new IllegalArgumentException("No two sum solution");
     }
 ```
-
 TC is O(N). 空间换时间, compare to brute force solution, SC is O(N).
+
+In brute foce solution, you write two for loops to check if the sum equals to the target, which increases TC. However, SC in this solution is O(1).
