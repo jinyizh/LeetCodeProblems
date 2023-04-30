@@ -19,6 +19,21 @@ public int[] twoSum(int[] nums, int target) {
         throw new IllegalArgumentException("No two sum solution");
     }
 ```
+
+```elixir
+defmodule Solution do
+  @spec two_sum(nums :: [integer], target :: integer) :: [integer]
+  def two_sum(nums, target) do
+    List.foldl(nums |> Enum.with_index(), {%{}, []}, fn {num, i}, {mp, ans} ->
+      if mp[target - num] == nil,
+        do: {mp |> Map.put(num, i), ans},
+        else: {mp, [mp[target - num], i]}
+    end)
+    |> elem(1)
+  end
+end
+```
+
 TC is O(N). 空间换时间, compare to brute force solution, SC is O(N).
 
 In brute foce solution, you write two for loops to check if the sum equals to the target, which increases TC. However, SC in this solution is O(1).

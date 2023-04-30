@@ -14,6 +14,7 @@ Solutions for all the LeetCode problems that I have done so far.
 12 | Integer to Roman | Hash Table, Math, String | M
 13 | Roman to Integer | Hash Table, Math, String | E
 [14](./Problems/lc14.md) | Longest Common Prefix | String | E
+15 | 3Sum | Array, Two Pointers, Sorting | M
 20 | Valid Parentheses | String, Stack | E
 21 | Merge Two Sorted Lists | Linked List, Recursion | E
 [22](./Problems/lc22.md) | Generate Parentheses | String, Dynamic Programming, Backtracking | M
@@ -62,6 +63,7 @@ Solutions for all the LeetCode problems that I have done so far.
 724 | Find Pivot Index | Array, Prefix Sum | E
 733 | Flood Fill | Array, Depth-First Search, Breadth-First Search, Matrix | E
 [739](./Problems/lc739.md) | Daily Temperature | Array, Stack, Monotonic Stack | M
+[760](./Problems/lc760.md) | Find Anagram Mappings | Array, Hash Table | E
 876 | Middle of the Linked List | Linked List, Two Pointers | E
 [910](./Problems/lc910.md) | Smallest Range II | Array, Math, Greedy, Sorting | M
 [945](Problems/lc945.md) | Minimum Increment to Make Array Unique | Array, Greedy, Sorting, Counting | M
