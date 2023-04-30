@@ -1,5 +1,5 @@
 # LeetCode Problems
-Solutions for all the LeetCode problems that I have done so far.
+Solutions for all the LeetCode problems that I have done so far. Most of the problems are done in Java, but I also wrote solutions in Elixir.
 
 ## Table of Content
 ---
@@ -7,6 +7,7 @@ Solutions for all the LeetCode problems that I have done so far.
 | --- | --- | --- | --- |
 1 | Two Sum | Array, Hash Table | E
 [2](./Problems/lc2.md) | Add Two Numbers | Linked List, Math, Recursion | M
+[3](Problems/lc3.md) | Longest Substring Without Repeating Characters | Hash Table, String, Sliding Window | M
 5 | Longest Palindromic Substring | String, Dynamic Programming | M
 7 | Reverse Integer | Math | M
 9 | Palindrome Number | Math | E
