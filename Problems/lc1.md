@@ -1,4 +1,4 @@
-# 1. Two Sum
+# 1. Two Sum (E)
 Given an array of integers ```nums``` and an integer ```target```, return *indices of the two numbers* such that they add up to ```target```.
 
 You may assume that each input would have **exactly one solution**, and you may not use the same element twice.
@@ -8,16 +8,16 @@ You can return the answer in any order.
 ## Hash Map
 ```java
 public int[] twoSum(int[] nums, int target) {
-        Map<Integer,Integer> map = new HashMap<>();
-        for(int i = 0; i< nums.length; i++){
-            int sub = target - nums[i];
-            if(map.containsKey(sub)){
-                return new int[]{i,map.get(sub)};
-            }
-            map.put(nums[i], i); // key is the number, value is the index
+    Map<Integer,Integer> map = new HashMap<>();
+    for(int i = 0; i< nums.length; i++){
+        int sub = target - nums[i];
+        if(map.containsKey(sub)){
+            return new int[]{i,map.get(sub)};
         }
-        throw new IllegalArgumentException("No two sum solution");
+        map.put(nums[i], i); // key is the number, value is the index
     }
+    throw new IllegalArgumentException("No two sum solution");
+}
 ```
 
 ```elixir

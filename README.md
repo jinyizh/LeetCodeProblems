@@ -1,5 +1,5 @@
 # LeetCode Problems
-Solutions for all the LeetCode problems that I have done so far. Most of the problems are done in Java, but I also write solutions in Elixir.
+Solutions for all the LeetCode problems that I have done so far. Most of the problems are done in Java, and I also write solutions in C++ and Elixir.
 
 ## Table of Content
 ---
@@ -11,13 +11,13 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 5 | Longest Palindromic Substring | String, Dynamic Programming | M
 7 | Reverse Integer | Math | M
 9 | Palindrome Number | Math | E
-11 | Container With Most Water | Array, Two Pointers, Greedy | M
+[11](./Problems/lc11.md) | Container With Most Water | Array, Two Pointers, Greedy | M
 12 | Integer to Roman | Hash Table, Math, String | M
 13 | Roman to Integer | Hash Table, Math, String | E
 [14](./Problems/lc14.md) | Longest Common Prefix | String | E
 15 | 3Sum | Array, Two Pointers, Sorting | M
 20 | Valid Parentheses | String, Stack | E
-21 | Merge Two Sorted Lists | Linked List, Recursion | E
+[21](Problems/lc21.md) | Merge Two Sorted Lists | Linked List, Recursion | E
 [22](./Problems/lc22.md) | Generate Parentheses | String, Dynamic Programming, Backtracking | M
 26 | Remove Duplicates from Sorted Array | Array, Two Pointers | E
 27 | Remove Element | Array, Two Pointers | E
@@ -44,13 +44,13 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 205 | Isomorphic Strings | Hash Table, String | E
 [209](Problems/lc209.md) | Minimum Size Subarray Sum | Array, Binary Search, Sliding Window, Prefix Sum | M
 231 | Power of Two | Math, Bit Manipulation, Recursion | E
-242 | Valid Anagram | Hash Table, String, Sorting | E
+[242](./Problems/lc242.md) | Valid Anagram | Hash Table, String, Sorting | E
 283 | Move Zeroes | Array, Two Pointers | E
 290 | Word Pattern | Hash Table, String | E
 292 | Nim Game | Math, Brainteaser, Game Theory | E
 344 | Reverse String | Two Pointers, String | E
 345 | Reverse Vowels of a String | Two Pointers, String | E
-370 | Range Addition | Array, Prefix Sum | M
+[370](./Problems/lc370.md) | Range Addition | Array, Prefix Sum | M
 383 | Ransom Note | Hash Table, String, Counting | E
 387 | First Unique Character in a String | Hash Table, String, Queue, Counting | E
 389 | Find the Difference | Hash Table, String, Bit Manipulation, Sorting | E
@@ -65,12 +65,14 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 733 | Flood Fill | Array, Depth-First Search, Breadth-First Search, Matrix | E
 [739](./Problems/lc739.md) | Daily Temperature | Array, Stack, Monotonic Stack | M
 [760](./Problems/lc760.md) | Find Anagram Mappings | Array, Hash Table | E
+[789](./Problems/lc789.md) | Escape The Ghosts | Array, Math | M
 876 | Middle of the Linked List | Linked List, Two Pointers | E
 [910](./Problems/lc910.md) | Smallest Range II | Array, Math, Greedy, Sorting | M
 [945](Problems/lc945.md) | Minimum Increment to Make Array Unique | Array, Greedy, Sorting, Counting | M
 [974](Problems/lc974.md) | Subarray Sums Divisible by K | Array, Hash Table, Prefix Sum | M
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
+[1221](Problems/lc1221.md) | Split a String in Balanced Strings | String, Greedy, Counting | E
 1470 | Shuffle the Array | Array | E
 [1480](Problems/lc1480.md) | Running Sum of 1d Array | Array, Prefix Sum | E
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
