@@ -16,6 +16,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 13 | Roman to Integer | Hash Table, Math, String | E
 [14](./Problems/lc14.md) | Longest Common Prefix | String | E
 15 | 3Sum | Array, Two Pointers, Sorting | M
+[19](./Problems/lc19.md) | Remove Nth Node From End of List | Linked List, Two Pointers | M
 20 | Valid Parentheses | String, Stack | E
 [21](Problems/lc21.md) | Merge Two Sorted Lists | Linked List, Recursion | E
 [22](./Problems/lc22.md) | Generate Parentheses | String, Dynamic Programming, Backtracking | M
