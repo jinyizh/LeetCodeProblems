@@ -61,6 +61,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 509 | Fibonacci Number | Math, Dynamic Programming, Recursion, Memoization | E
 [560](Problems/lc560.md) | Subarray Sum Equals K | Array, Hash Table, Prefix Sum | M
 674 | Longest Continuous Increasing Subsequence | Array | E
+[678](Problems/lc678.md) | Valid Parenthesis String | String, Dynamic Programming, Stack, Greedy | M
 [704](./Problems/lc704.md) | Binary Search | Array, Binary Search | E
 724 | Find Pivot Index | Array, Prefix Sum | E
 733 | Flood Fill | Array, Depth-First Search, Breadth-First Search, Matrix | E
