@@ -75,6 +75,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
 [1221](Problems/lc1221.md) | Split a String in Balanced Strings | String, Greedy, Counting | E
+[1295](./Problems/lc1295.md) | Find Numbers with Even Number of Digits | Array | E
 1470 | Shuffle the Array | Array | E
 [1480](Problems/lc1480.md) | Running Sum of 1d Array | Array, Prefix Sum | E
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
