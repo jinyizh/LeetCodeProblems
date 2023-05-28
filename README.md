@@ -1,7 +1,7 @@
 # LeetCode Problems
 Solutions for all the LeetCode problems that I have done so far. Most of the problems are done in Java, and I also write solutions in C++ and Elixir.
 
-## Table of Content
+## List of Completed Problems
 ---
 | Num | Title | Topics | Difficulty |
 | --- | --- | --- | --- |
@@ -81,40 +81,5 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
 ---
 
-## Appendix: List of data structures and algorithms
-
-### Data structures (and data types)
-- Array
-  - Slice (Python, Golang)
-- Graph
-- Hash Table
-- Heap
-- Linked List
-  - Doubly-linked list
-- Queue
-  - Priority Queue
-- Stack
-- String
-- Tree
-  - AVL Tree
-  - Binary Tree
-
-### Algorithms (and topics)
-- Binary Search
-- Bit Manipulation
-- Breadth-First Search
-- Counting
-- Depth-First Search
-- Design
-- Divide and Conquer
-- Dynamic Programming
-- Greedy
-- Math
-- Memoization
-- Monotonic Stack
-- Prefix Sum
-- Recursion
-- Simulation
-- Sliding Window
-- Sorting
-- Two Pointers
+## Study Plans
+- [Top Interview 150](./StudyPlans/TopInterview150.md)
