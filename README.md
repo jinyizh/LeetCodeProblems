@@ -34,6 +34,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 67 | Add Binary | Math, String, Bit Manipulation, Simulation | E
 [70](./Problems/lc70.md) | Climbing Stairs | Math, Dynamic Programming, Memoization | E
 88 | Merge Sorted Array | Array, Two Pointers, Sorting | E
+[98](Problems/lc98.md) | Validate Binary Search Tree | Tree, Depth-First Search, Binary Search Tree, Binary Tree | M
 [104](Problems/lc104.md) | Maximum Depth of Binary Tree | Tree, Depth-First Search, Breadth-First Search, Binary Tree | E
 118 | Pascal's Triangle | Array, Dynamic Programming | E
 [121](Problems/lc121.md) | Best Time to Buy and Sell Stock | Array, Dynamic Programming | E
@@ -83,3 +84,4 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 
 ## Study Plans
 - [Top Interview 150](./StudyPlans/TopInterview150.md)
+- [SQL 50](./StudyPlans/SQL50.md)
