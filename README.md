@@ -36,6 +36,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 88 | Merge Sorted Array | Array, Two Pointers, Sorting | E
 [98](Problems/lc98.md) | Validate Binary Search Tree | Tree, Depth-First Search, Binary Search Tree, Binary Tree | M
 [104](Problems/lc104.md) | Maximum Depth of Binary Tree | Tree, Depth-First Search, Breadth-First Search, Binary Tree | E
+[108](Problems/lc108.md) | Convert Sorted Array to Binary Search Tree | Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree | E
 118 | Pascal's Triangle | Array, Dynamic Programming | E
 [121](Problems/lc121.md) | Best Time to Buy and Sell Stock | Array, Dynamic Programming | E
 136 | Single Number | Array, Bit Manipulation | E
