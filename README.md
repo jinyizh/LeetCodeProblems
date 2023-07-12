@@ -48,6 +48,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 [209](Problems/lc209.md) | Minimum Size Subarray Sum | Array, Binary Search, Sliding Window, Prefix Sum | M
 231 | Power of Two | Math, Bit Manipulation, Recursion | E
 [242](./Problems/lc242.md) | Valid Anagram | Hash Table, String, Sorting | E
+[270](./Problems/lc270.md) | Closest Binary Search Tree Value | Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree | E
 283 | Move Zeroes | Array, Two Pointers | E
 290 | Word Pattern | Hash Table, String | E
 292 | Nim Game | Math, Brainteaser, Game Theory | E
