@@ -1,5 +1,5 @@
 # LeetCode Problems
-Solutions for all the LeetCode problems that I have done so far. Most of the problems are done in Java, and I also write solutions in C++ and Elixir.
+Solutions for all the LeetCode problems that I have done so far. Most of the problems are done in Java, and I also write solutions in C++ and Elixir (rarely).
 
 ## List of Completed Problems
 ---
@@ -35,13 +35,14 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 [70](./Problems/lc70.md) | Climbing Stairs | Math, Dynamic Programming, Memoization | E
 88 | Merge Sorted Array | Array, Two Pointers, Sorting | E
 [98](Problems/lc98.md) | Validate Binary Search Tree | Tree, Depth-First Search, Binary Search Tree, Binary Tree | M
+[100](Problems/lc100.md) | Same Tree | Tree, Depth-First Search, Breadth-First Search, Binary Tree | E
 [104](Problems/lc104.md) | Maximum Depth of Binary Tree | Tree, Depth-First Search, Breadth-First Search, Binary Tree | E
 [108](Problems/lc108.md) | Convert Sorted Array to Binary Search Tree | Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree | E
 118 | Pascal's Triangle | Array, Dynamic Programming | E
 [121](Problems/lc121.md) | Best Time to Buy and Sell Stock | Array, Dynamic Programming | E
 136 | Single Number | Array, Bit Manipulation | E
 [155](./Problems/lc155.md) | Min Stack | Stack, Design | M
-146 | LRU Cache | Hash Table, Linked List, Design, Doubly-Linked List | M
+[146](./Problems/lc146.md) | LRU Cache | Hash Table, Linked List, Design, Doubly-Linked List | M
 [167](./Problems/lc167.md) | Two Sum II - Input Array Is Sorted | Array, Two Pointers, Binary Search | M
 168 | Excel Sheet Column Title | Math, String | E
 205 | Isomorphic Strings | Hash Table, String | E
@@ -79,8 +80,10 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
 [1221](Problems/lc1221.md) | Split a String in Balanced Strings | String, Greedy, Counting | E
 [1295](./Problems/lc1295.md) | Find Numbers with Even Number of Digits | Array | E
+[1350](./Problems/lc1350.md) | Students With Invalid Departments | Database | E
 1470 | Shuffle the Array | Array | E
 [1480](Problems/lc1480.md) | Running Sum of 1d Array | Array, Prefix Sum | E
+1523 | Count Odd Numbers in an Interval Range | Math | E
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
 ---
 
