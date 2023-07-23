@@ -64,6 +64,8 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 490 | The Maze | Depth-First Search, Breadth-First Search, Graph| M
 509 | Fibonacci Number | Math, Dynamic Programming, Recursion, Memoization | E
 [560](Problems/lc560.md) | Subarray Sum Equals K | Array, Hash Table, Prefix Sum | M
+[584](./Problems/lc584.md) | Find Customer Referee | Database | E
+595 | Big Countries | Database | E
 674 | Longest Continuous Increasing Subsequence | Array | E
 [678](Problems/lc678.md) | Valid Parenthesis String | String, Dynamic Programming, Stack, Greedy | M
 [704](./Problems/lc704.md) | Binary Search | Array, Binary Search | E
@@ -77,6 +79,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 [945](Problems/lc945.md) | Minimum Increment to Make Array Unique | Array, Greedy, Sorting, Counting | M
 [974](Problems/lc974.md) | Subarray Sums Divisible by K | Array, Hash Table, Prefix Sum | M
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
+1148 | Article Views I | Database | E
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
 [1221](Problems/lc1221.md) | Split a String in Balanced Strings | String, Greedy, Counting | E
 [1295](./Problems/lc1295.md) | Find Numbers with Even Number of Digits | Array | E
@@ -84,6 +87,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 1470 | Shuffle the Array | Array | E
 [1480](Problems/lc1480.md) | Running Sum of 1d Array | Array, Prefix Sum | E
 1523 | Count Odd Numbers in an Interval Range | Math | E
+1757 | Recyclable and Low Fat Products | Database | E
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
 ---
 
