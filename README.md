@@ -1,5 +1,5 @@
 # LeetCode Problems
-Solutions for all the LeetCode problems that I have done so far. Most of the problems are done in Java, and I also write solutions in C++ and Elixir (rarely).
+Solutions for all the LeetCode problems that I have done so far. Most of the problems are done in Java, and I also write solutions in C++ and Elixir (rarely). For database problems, I write my solutions in MySQL.
 
 ## List of Completed Problems
 ---
@@ -41,10 +41,12 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 118 | Pascal's Triangle | Array, Dynamic Programming | E
 [121](Problems/lc121.md) | Best Time to Buy and Sell Stock | Array, Dynamic Programming | E
 136 | Single Number | Array, Bit Manipulation | E
-[155](./Problems/lc155.md) | Min Stack | Stack, Design | M
 [146](./Problems/lc146.md) | LRU Cache | Hash Table, Linked List, Design, Doubly-Linked List | M
+[155](./Problems/lc155.md) | Min Stack | Stack, Design | M
 [167](./Problems/lc167.md) | Two Sum II - Input Array Is Sorted | Array, Two Pointers, Binary Search | M
 168 | Excel Sheet Column Title | Math, String | E
+[175](Problems/lc175.md) | Combine Two Tables | Database | E
+[176](Problems/lc176.md) | Second Highest Salary | Database | M
 205 | Isomorphic Strings | Hash Table, String | E
 [209](Problems/lc209.md) | Minimum Size Subarray Sum | Array, Binary Search, Sliding Window, Prefix Sum | M
 231 | Power of Two | Math, Bit Manipulation, Recursion | E
@@ -87,6 +89,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 1470 | Shuffle the Array | Array | E
 [1480](Problems/lc1480.md) | Running Sum of 1d Array | Array, Prefix Sum | E
 1523 | Count Odd Numbers in an Interval Range | Math | E
+[1683](./Problems/lc1683.md) | Invalid Tweets | Database | E
 1757 | Recyclable and Low Fat Products | Database | E
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
 ---
