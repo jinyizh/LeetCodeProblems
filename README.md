@@ -36,6 +36,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 88 | Merge Sorted Array | Array, Two Pointers, Sorting | E
 [98](Problems/lc98.md) | Validate Binary Search Tree | Tree, Depth-First Search, Binary Search Tree, Binary Tree | M
 [100](Problems/lc100.md) | Same Tree | Tree, Depth-First Search, Breadth-First Search, Binary Tree | E
+[101](./Problems/lc101.md) | Symmetric Tree | Tree, Depth-First Search, Breadth-First Search, Binary Tree | E
 [104](Problems/lc104.md) | Maximum Depth of Binary Tree | Tree, Depth-First Search, Breadth-First Search, Binary Tree | E
 [108](Problems/lc108.md) | Convert Sorted Array to Binary Search Tree | Array, Divide and Conquer, Tree, Binary Search Tree, Binary Tree | E
 118 | Pascal's Triangle | Array, Dynamic Programming | E
@@ -47,6 +48,8 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 168 | Excel Sheet Column Title | Math, String | E
 [175](Problems/lc175.md) | Combine Two Tables | Database | E
 [176](Problems/lc176.md) | Second Highest Salary | Database | M
+181 | Employees Earning More Than Their Managers | Database | E
+[193](./Problems/lc193.md)| Valid Phone Numbers | Shell | E
 205 | Isomorphic Strings | Hash Table, String | E
 [209](Problems/lc209.md) | Minimum Size Subarray Sum | Array, Binary Search, Sliding Window, Prefix Sum | M
 231 | Power of Two | Math, Bit Manipulation, Recursion | E
@@ -65,9 +68,11 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 412 | Fizz Buzz | Math, String, Simulation | E
 490 | The Maze | Depth-First Search, Breadth-First Search, Graph| M
 509 | Fibonacci Number | Math, Dynamic Programming, Recursion, Memoization | E
+[511](./Problems/lc511.md) | Game Play Analysis I | Database | E
 [560](Problems/lc560.md) | Subarray Sum Equals K | Array, Hash Table, Prefix Sum | M
 [584](./Problems/lc584.md) | Find Customer Referee | Database | E
 595 | Big Countries | Database | E
+596 | Classes More Than 5 Students | Database | E
 674 | Longest Continuous Increasing Subsequence | Array | E
 [678](Problems/lc678.md) | Valid Parenthesis String | String, Dynamic Programming, Stack, Greedy | M
 [704](./Problems/lc704.md) | Binary Search | Array, Binary Search | E
@@ -82,6 +87,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 [974](Problems/lc974.md) | Subarray Sums Divisible by K | Array, Hash Table, Prefix Sum | M
 1137 | N-th Tribonacci Number | Math, Dynamic Programming, Memoization | E
 1148 | Article Views I | Database | E
+[1149](Problems/lc1149.md) | Article Views II | Database | M
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
 [1221](Problems/lc1221.md) | Split a String in Balanced Strings | String, Greedy, Counting | E
 [1295](./Problems/lc1295.md) | Find Numbers with Even Number of Digits | Array | E
@@ -89,8 +95,11 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 1470 | Shuffle the Array | Array | E
 [1480](Problems/lc1480.md) | Running Sum of 1d Array | Array, Prefix Sum | E
 1523 | Count Odd Numbers in an Interval Range | Math | E
+[1667](./Problems/lc1667.md) | Fix Names in a Table | Database | E
 [1683](./Problems/lc1683.md) | Invalid Tweets | Database | E
 1757 | Recyclable and Low Fat Products | Database | E
+1978 | Employees Whose Manager Left the Company | Database | E
+2026 | Low-Quality Problems | Database | E
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
 ---
 
