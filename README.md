@@ -49,9 +49,12 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 [175](Problems/lc175.md) | Combine Two Tables | Database | E
 [176](Problems/lc176.md) | Second Highest Salary | Database | M
 181 | Employees Earning More Than Their Managers | Database | E
+182 | Duplicate Emails | Database | E
+183 | Customers Who Never Order | Database | E
 [193](./Problems/lc193.md)| Valid Phone Numbers | Shell | E
 205 | Isomorphic Strings | Hash Table, String | E
 [209](Problems/lc209.md) | Minimum Size Subarray Sum | Array, Binary Search, Sliding Window, Prefix Sum | M
+217 | Contains Duplicate | Array, Hash Table, Sorting | E
 231 | Power of Two | Math, Bit Manipulation, Recursion | E
 [242](./Problems/lc242.md) | Valid Anagram | Hash Table, String, Sorting | E
 [270](./Problems/lc270.md) | Closest Binary Search Tree Value | Binary Search, Tree, Depth-First Search, Binary Search Tree, Binary Tree | E
@@ -100,7 +103,9 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 1757 | Recyclable and Low Fat Products | Database | E
 1978 | Employees Whose Manager Left the Company | Database | E
 2026 | Low-Quality Problems | Database | E
+[2082](./Problems/lc2082.md) | The Number of Rich Customers | Database | E
 [2361](Problems/lc2361.md) | Minimum Costs Using the Train Line | Array, Dynamic Programming | H
+2668 | Find Latest Salaries | Database | E
 ---
 
 ## Study Plans
