@@ -101,6 +101,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 [1667](./Problems/lc1667.md) | Fix Names in a Table | Database | E
 [1683](./Problems/lc1683.md) | Invalid Tweets | Database | E
 1757 | Recyclable and Low Fat Products | Database | E
+[1768](./Problems/lc1768.md) | Merge Strings Alternately | Two Pointers, String | E
 1978 | Employees Whose Manager Left the Company | Database | E
 2026 | Low-Quality Problems | Database | E
 [2082](./Problems/lc2082.md) | The Number of Rich Customers | Database | E
