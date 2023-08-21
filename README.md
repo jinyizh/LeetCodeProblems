@@ -68,6 +68,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 387 | First Unique Character in a String | Hash Table, String, Queue, Counting | E
 389 | Find the Difference | Hash Table, String, Bit Manipulation, Sorting | E
 392 | Is Subsequence | Two Pointers, String, Dynamic Programming | E
+394 | Decode String | String, Stack, Recursion | M
 412 | Fizz Buzz | Math, String, Simulation | E
 490 | The Maze | Depth-First Search, Breadth-First Search, Graph| M
 509 | Fibonacci Number | Math, Dynamic Programming, Recursion, Memoization | E
