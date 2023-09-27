@@ -93,6 +93,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 1148 | Article Views I | Database | E
 [1149](Problems/lc1149.md) | Article Views II | Database | M
 [1165](Problems/lc1165.md) | Single-Row Keyboard | Hash Table, String | E
+1169 | Invalid Transactions | Array, Hash Table, String, Sorting | M
 [1221](Problems/lc1221.md) | Split a String in Balanced Strings | String, Greedy, Counting | E
 [1295](./Problems/lc1295.md) | Find Numbers with Even Number of Digits | Array | E
 [1350](./Problems/lc1350.md) | Students With Invalid Departments | Database | E
