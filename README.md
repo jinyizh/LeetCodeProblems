@@ -27,6 +27,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 31 | Next Permutation | Array, Two Pointers | M
 35 | Search Insert Position | Array, Binary Search | E
 [36](./Problems/lc36.md) | Valid Sudoku | Array, Hash Table, Matrix | M
+[42](./Problems/lc42.md) | Trapping Rain Water | Array, Two Pointers, Dynamic Programming, Stack, Monotonic Stack | H
 53 | Maximum Subarray | Array, Divide and Conquer, Dynamic Programming | M
 [55](./Problems/lc55.md) | Jump Game | Array, Dynamic Programming, Greedy | M
 58 | Length of Last Word | String | E
