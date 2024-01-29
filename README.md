@@ -80,6 +80,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 596 | Classes More Than 5 Students | Database | E
 674 | Longest Continuous Increasing Subsequence | Array | E
 [678](Problems/lc678.md) | Valid Parenthesis String | String, Dynamic Programming, Stack, Greedy | M
+[682](Problems/lc682.md) | Baseball Game | Array, Stack, Simulation | E
 [704](./Problems/lc704.md) | Binary Search | Array, Binary Search | E
 724 | Find Pivot Index | Array, Prefix Sum | E
 733 | Flood Fill | Array, Depth-First Search, Breadth-First Search, Matrix | E
