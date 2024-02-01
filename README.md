@@ -107,6 +107,7 @@ Solutions for all the LeetCode problems that I have done so far. Most of the pro
 1757 | Recyclable and Low Fat Products | Database | E
 [1762](./Problems/lc1762.md) | Buildings With an Ocean View | Array, Stack, Monotonic Stack | M
 [1768](./Problems/lc1768.md) | Merge Strings Alternately | Two Pointers, String | E
+[1944](./Problems/lc1944.md) | Number of Visible People in a Queue | Array, Stack, Monotonic Stack | H
 1978 | Employees Whose Manager Left the Company | Database | E
 2026 | Low-Quality Problems | Database | E
 [2082](./Problems/lc2082.md) | The Number of Rich Customers | Database | E
